@@ -1,0 +1,15 @@
+# **Augmented social cognition**
+
+We are experiencing a new Social Web, where people share, communicate, commiserate, and conflict with each other. As evidenced by systems like Wikipedia, twitter, and delicious.com, these environments are turning people into social information foragers and sharers. Groups interact to resolve conflicts and jointly make sense of topic areas from "Obama vs. Clinton" to "Islam."
+
+PARC's Augmented Social Cognition researchers -- who come from cognitive psychology, computer science, HCI, CSCW, and other disciplines -- focus on understanding how to "enhance a group of people's ability to remember, think, and reason". Through Social Web systems like social bookmarking sites, blogs, Wikis, and more, we can finally study, in detail, these types of enhancements on a very large scale.
+
+Here we summarize recent work and early findings such as: (1) how conflict and coordination have played out in Wikipedia, and how social transparency might affect reader trust; (2) how decreasing interaction costs might change participation in social tagging systems; and (3) how computation can help organize user-generated content and metadata. [@ChiE2009]
+
+## Evaluate the authority or background of the author
+
+## Comment on the intended audience
+
+## Compare or contrast this work with another you have cited
+
+## Explain how this work illuminates your bibliography topic
