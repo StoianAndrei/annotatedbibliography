@@ -1,7 +1,7 @@
 ---
 title: "Annotated Bibliography for Directed study"
 author: "Andrei Stoian"
-date: "`r Sys.Date()`"
+date: "2021-09-01"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -12,11 +12,14 @@ biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl
 ---
 
-```{r Annotated Bibliography}
+
+```r
 
 path_img <- here::here()
 knitr::include_graphics(path = file.path(path_img,"img/books.jpg"),dpi = 600)
 ```
+
+![](E:/MASTER/DIRECTED_STUDY/MArkus/annotatedbibliography/img/books.jpg)<!-- -->
 
 # About
 
@@ -74,7 +77,8 @@ The book is both render in the HTML version :
 
 Or build the book from the R console:
 
-```{r, eval=FALSE}
+
+```r
 bookdown::render_book()
 ```
 
@@ -84,6 +88,7 @@ But also I render this example to PDF as R command `bookdown::render_book('index
 
 As I build the book chapter by chapter i use the feature called `Visual Editor` that makes `Rmardown` text look like a word page and also I start a local server to live preview this HTML book. This preview will update as you edit the book when you save individual .Rmd files. You can start the server in a work session by using the RStudio add-in "Preview book", or from the R console:
 
-```{r eval=FALSE}
+
+```r
 bookdown::serve_book()
 ```
